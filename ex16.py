@@ -20,6 +20,6 @@ elif 21 <= valor <= 30:
 
 else:
     print(f"{valor} é maior que 30")
-
+print("teste")
        
  
