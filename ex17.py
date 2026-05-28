@@ -6,3 +6,4 @@ elif 18 <= temp <= 30:
     print(f"A temperatura de {temp} está agradável")
 else:
     print(f"A temperatura de {temp} está quente")
+print("Alterado por outra pessoa")
